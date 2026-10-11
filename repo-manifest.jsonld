@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/dataclasses/commit/ae712dd993420d43444f188f4525d9bf72f8f219",
       "git:hexsha": "ae712dd993420d43444f188f4525d9bf72f8f219",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/dataclasses/commit/5760bec329b571a00e6cc048dd90b3251ab48ee7",
