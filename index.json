@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "dataclasses",
+  "versions": [
+    {
+      "commit": "ae712dd993420d43444f188f4525d9bf72f8f219",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:12:36.525557+00:00"
+    }
+  ]
+}
